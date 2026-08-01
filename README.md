@@ -1,3 +1,5 @@
+> **Development has moved:** See [the `forge-ink` module in the Bertie monorepo](https://github.com/bertie-mc/bertie/tree/main/mods/forge-ink). This repository is retained read-only for historical tags, releases, and issues.
+
 # Bertie Forge Ink
 
 NeoForge 1.21.1 addon for **bertie**: the Hephaestus Forge (Forbidden Arcanus 2.6.1) runs on
